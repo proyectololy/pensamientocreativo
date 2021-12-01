@@ -1,0 +1,109 @@
+a:link{
+    color: grey;
+    padding: 20px;
+    width: 150px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 15px;
+    float: right;
+    margin: 5px;
+    text-align: center;      
+}
+a:visited{
+    color: black;
+    padding: 20px;
+    width: 200px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    border-right:solid black;
+    font-size: 25px;
+    float: right;
+    margin: 5px;
+    text-align: center;
+}
+
+a:hover{
+    color: grey;
+    padding: 20px;
+    width: 200px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 15px;
+    float: right;
+    margin: 5px;
+    text-align: center;    
+}
+
+a:active{
+     color: grey;
+     padding: 20px;
+     width: 200px; 
+     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+     font-size: 15px;
+     float: right;
+     margin: 5px;
+     text-align: center;
+}
+
+
+body{
+    background-color: cornsilk;
+    font-family: cursive;
+    text-align: center;
+}
+
+h1{
+    background-color: hotpink;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.rosa{
+    color: crimson;
+    font-size: 20px;
+}
+
+ .naranja{
+flex-direction: column;
+justify-content: center;
+margin: 3%;
+display: flex;
+width: 600px; 
+float: right;
+margin-top: 80px;
+background-color: peachpuff;
+position: relative;
+font-size: 25px;
+width: 50;
+}
+
+.card-title{
+    color: indigo;
+    font-size: 25px;
+}
+
+.card-text{
+    font-size: 20px;
+}
+.verde{
+    font-size: 20px;
+}
+
+.fab{
+    font-size: 50px;
+    color: purple;      
+}
+
+
+.turquesa{
+    font-size: 60px;
+    color:black;
+    font-family: monospace;
+    background-color: hotpink;
+    margin: 3% ;
+    float: left;
+    display: flex;
+    width: 90;
+    margin-top: 50px;
+}
+
+.btn{
+    font-size: 15px;
+    color: crimson;
+}
